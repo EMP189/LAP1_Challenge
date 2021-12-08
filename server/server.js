@@ -10,7 +10,7 @@ const searchResults = data.searchResults;
 const resultsInformation = data.resultsInformation;
 //Show the list of possible results
 server.get('/', (req,res) =>{
-    res.send(resultsInformation);
+    res.send(searchResults);
 });
 //Show facts about a random result
 server.get('/random',(req,res) => {
