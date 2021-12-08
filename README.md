@@ -16,3 +16,4 @@ In this coding challenge Marina and Eddie have created their own version of Goog
 - Created and formatted HTML page to look like a Google page
 - Created a data file in the server folder to hold all the information of the results
 - Started the server, but cannot dispay the data yet
+- Manged to get the server working and displaying the data required
