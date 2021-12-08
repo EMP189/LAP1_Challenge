@@ -5,8 +5,9 @@ In this coding challenge Marina and Eddie have created their own version of Goog
 - Open the terminal and navigate to the server folder
 - Run npm
     - init -y
-    - install cors
     - install express
+    - install cors
+    - install --save-dev nodemon
 
 # Usage of repo
 - Run "node server.js" or "npm start" to laucnh he server
@@ -17,3 +18,4 @@ In this coding challenge Marina and Eddie have created their own version of Goog
 - Created a data file in the server folder to hold all the information of the results
 - Started the server, but cannot dispay the data yet
 - Manged to get the server working and displaying the data required
+- Connected the front and back-end and now the forms work, however they still need formatting
