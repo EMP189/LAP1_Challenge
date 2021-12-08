@@ -11,3 +11,8 @@ In this coding challenge Marina and Eddie have created their own version of Goog
 # Usage of repo
 - Run "node server.js" or "npm start" to laucnh he server
 - Go to the Client folder and open index.html in your browser
+
+# Changelog
+- Created and formatted HTML page to look like a Google page
+- Created a data file in the server folder to hold all the information of the results
+- Started the server, but cannot dispay the data yet
