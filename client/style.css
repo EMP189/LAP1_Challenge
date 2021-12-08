@@ -24,7 +24,7 @@ div.searchBar{
     align-items: center;
     justify-content: center;
 }
-#searchBox{
+.searchBox{
     background-color: transparent;
     border:none;
     display: flex;
@@ -32,6 +32,7 @@ div.searchBar{
     height:34px;
     width:500px;
     font-size: medium;
+    outline:none;
 }
 form.sBtns{
     
@@ -41,12 +42,12 @@ form.sBtns{
 }
 input.searchBtns:hover {
     box-shadow: 0 1px 3px rgba(23,23,23,0.24);
-    background-color: #686869;
+    background-color: #858585;
     border: 1px solid #5f6368;
     color: #e8eaed;
 }
 input.searchBtns{
-    background-color: gray;
+    background-color: rgb(211, 210, 210);
     height: 36px;
     margin: 11px 4px;
     padding: 0 16px;
@@ -54,3 +55,4 @@ input.searchBtns{
     border:none;
     cursor: pointer;
 }
+

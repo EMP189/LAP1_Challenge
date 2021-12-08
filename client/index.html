@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Google Page</title>
     <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
 </head>
 <body>
     <div class="img">
@@ -13,15 +14,18 @@
     </div>
     <div class="searchBar">
         <form>
-            <input id ="searchBox" type="text" placeholder="Search..." name="fSearchBox"  />
+            <input class ="searchBox" type="text" placeholder="Search 'Animals'" name="fSearchBox"/>
         </form>
     </div>
     <div>
         <form class="sBtns">
-            <input class="searchBtns" type="submit" value="Search" width="10px"/>
-            <input class="searchBtns" type="submit" value="I'm Feeling Lucky" width="140px"/>
+            <input id="searchBtn" class="searchBtns" type="submit" value="Search" width="10px"/>
+            <input id="luckyBtn" class="searchBtns" type="submit" value="I'm Feeling Lucky" width="140px"/>
             </form>
     </div>
     
+    <div class="resultsList">
+        <p id="stuff"></p>
+    </div>
 </body>
 </html>

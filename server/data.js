@@ -15,7 +15,7 @@ searchResults =[
 
 resultsInformation =[
     ['Cats can jump up to 6 times their height', 'Cats have a total of 18 toes', '1 cat year is equivalent to 15 human years'],
-    ['Dogs have a sense of smell at least 40 times better than humans','Dogs can be left- or right-pawed', 'Dogs are about as intelligents as a two-yaer-old'],
+    ['Dogs have a sense of smell at least 40 times better than humans','Dogs can be left- or right-pawed', 'Dogs are about as intelligents as a two-year-old'],
     ['Ducks can have lifespans of up to 20 years','Duck feathers are highly waterproof','Their production of eggs is affected by daylight. The more daylight, the more eggs they can lay'],
     ["Lions' manes get darker as they get older", 'Lions do most of their hunting over night and during storms', 'Lions are the only known cat species where individuals roar together'],
     ['Tiger cubs are born blind and only open their eyes 1-2 weeks after birth','Tigers will protect and hide their prey to prevent other predators steal from them','Tigers live for about 25 years'],
